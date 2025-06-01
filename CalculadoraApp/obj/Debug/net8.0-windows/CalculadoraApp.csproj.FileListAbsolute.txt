@@ -1,0 +1,14 @@
+c:\Users\heimd\Desktop\CalculadoraApp\CalculadoraApp\CalculadoraApp\bin\Debug\net8.0-windows\CalculadoraApp.exe
+c:\Users\heimd\Desktop\CalculadoraApp\CalculadoraApp\CalculadoraApp\bin\Debug\net8.0-windows\CalculadoraApp.deps.json
+c:\Users\heimd\Desktop\CalculadoraApp\CalculadoraApp\CalculadoraApp\bin\Debug\net8.0-windows\CalculadoraApp.runtimeconfig.json
+c:\Users\heimd\Desktop\CalculadoraApp\CalculadoraApp\CalculadoraApp\bin\Debug\net8.0-windows\CalculadoraApp.dll
+c:\Users\heimd\Desktop\CalculadoraApp\CalculadoraApp\CalculadoraApp\bin\Debug\net8.0-windows\CalculadoraApp.pdb
+c:\Users\heimd\Desktop\CalculadoraApp\CalculadoraApp\CalculadoraApp\obj\Debug\net8.0-windows\CalculadoraApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\heimd\Desktop\CalculadoraApp\CalculadoraApp\CalculadoraApp\obj\Debug\net8.0-windows\CalculadoraApp.AssemblyInfoInputs.cache
+c:\Users\heimd\Desktop\CalculadoraApp\CalculadoraApp\CalculadoraApp\obj\Debug\net8.0-windows\CalculadoraApp.AssemblyInfo.cs
+c:\Users\heimd\Desktop\CalculadoraApp\CalculadoraApp\CalculadoraApp\obj\Debug\net8.0-windows\CalculadoraApp.csproj.CoreCompileInputs.cache
+c:\Users\heimd\Desktop\CalculadoraApp\CalculadoraApp\CalculadoraApp\obj\Debug\net8.0-windows\CalculadoraApp.dll
+c:\Users\heimd\Desktop\CalculadoraApp\CalculadoraApp\CalculadoraApp\obj\Debug\net8.0-windows\refint\CalculadoraApp.dll
+c:\Users\heimd\Desktop\CalculadoraApp\CalculadoraApp\CalculadoraApp\obj\Debug\net8.0-windows\CalculadoraApp.pdb
+c:\Users\heimd\Desktop\CalculadoraApp\CalculadoraApp\CalculadoraApp\obj\Debug\net8.0-windows\CalculadoraApp.genruntimeconfig.cache
+c:\Users\heimd\Desktop\CalculadoraApp\CalculadoraApp\CalculadoraApp\obj\Debug\net8.0-windows\ref\CalculadoraApp.dll
